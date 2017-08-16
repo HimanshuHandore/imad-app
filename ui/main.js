@@ -1,3 +1,3 @@
 console.log('Loaded!');
-var element=document.getelementbyid("main_text");
-element.innerthtml="Wlecmne";
+var element = document.getElementById ("main_text");
+element.innertHTML ="Wlecmne";
